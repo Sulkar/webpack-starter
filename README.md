@@ -1,8 +1,13 @@
 # webpack-starter
 simple custom webpack starter
 
+To update all dependencies:
+```
+npm i -g npm-check-updates
+npm-check-updates -u
+npm install
+```
 ## dependencies
-- "bootstrap"
 - "copy-webpack-plugin"
 - "css-loader"
 - "sass"
